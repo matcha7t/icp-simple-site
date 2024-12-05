@@ -15,7 +15,8 @@ Make sure you have you have the latest version of Docker (e.g. >25) and VS Code 
 
 In Gitpod
 
-[![Open in Gitpod](https://github.com/matcha7t/icp-simple-site.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/matcha7t/icp-simple-site/)
+
 
 ## 🚀 Develop
 
